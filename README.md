@@ -1,0 +1,4 @@
+- 👋 Hola, me llamo Heru
+- 🌱 Actualmente estoy aprendiendo html y python
+- 💞️ Estoy buscando un colaborador para mi proyecto opa
+- 📫 Me pueden contactar por discord Heru#2021
