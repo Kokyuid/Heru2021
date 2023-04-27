@@ -1,4 +1,3 @@
-- 👋 Hola, me llamo Heru
-- 🌱 Actualmente estoy aprendiendo html y python
-- 💞️ Estoy buscando un colaborador para mi proyecto OPA
-- 📫 Me pueden contactar por discord Heru#2021
+- 👋 Hola, me llamo Kokyū
+- 🌱 Tengo un proyecto llamado Vaal
+- 📫 Me pueden contactar por discord, Kokyū#8172
